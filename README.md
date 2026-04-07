@@ -1,4 +1,4 @@
-# py4newbie
+# dicas-estudos-devops-python
 
 https://python.org.br/introducao/
 
