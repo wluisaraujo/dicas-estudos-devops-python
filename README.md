@@ -4,6 +4,3 @@ https://python.org.br/introducao/
 
 http://df.python.org.br/pycubator
 
-##
-## Teste 2025
-## Teste 2026
